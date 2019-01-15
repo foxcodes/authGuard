@@ -1,5 +1,7 @@
 # AuthGuard
 
+Simple and quick project used to practice and play with the auth guards on Angular Router.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
 
 ## Development server
